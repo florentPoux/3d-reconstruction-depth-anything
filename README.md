@@ -134,7 +134,7 @@ All results are saved to `results/<SCENE_NAME>/`:
 | `*.glb` | 3D scene viewable in any browser or 3D viewer |
 | `reconstruction_data.npz` | All arrays for downstream workflows |
 
-> **Tip:** Drop `.glb` files into [gltf-viewer.donmccurdy.com](https://gltf-viewer.donmccurdy.com/) for instant 3D viewing. Open `.ply` files in [CloudCompare](https://www.cloudcompare.org/) or MeshLab.
+> **Tip:** Drop `.glb` files into [gltf-viewer](https://learngeodata.eu/apps/viewers/gltf-viewer) for instant 3D viewing. Open `.ply` files in [CloudCompare](https://www.cloudcompare.org/) or MeshLab.
 
 ---
 
@@ -194,8 +194,10 @@ This tutorial is a **starting point**. Inside the **3D Geodata Academy**, you'll
 | Resource | Link |
 |----------|------|
 | 3D Geodata Academy | [learngeodata.eu](https://learngeodata.eu) |
-| Newsletter | [learngeodata.eu](https://learngeodata.eu) |
+| Newsletter | [learngeodata.eu](https://learngeodata.eu/3d-newsletter) |
 | LinkedIn | [Florent Poux](https://www.linkedin.com/in/florent-poux/) |
+| Tutorial Article | [Medium](https://medium.com/@florentpoux/how-to-generate-3d-models-from-images-with-python-b92b7d549801) |
+| Personal Website | [Florent Poux](https://www.florentpoux.com) |
 
 ---
 
