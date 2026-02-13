@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/pipeline_overview.png" alt="Pipeline overview: images → depth maps → point cloud → voxel mesh → Gaussian splats" width="100%" />
+  <img src="assets/pipeline_overview.webp" alt="Pipeline overview: images → depth maps → point cloud → voxel mesh → Gaussian splats" width="100%" />
 </p>
 
 ---
